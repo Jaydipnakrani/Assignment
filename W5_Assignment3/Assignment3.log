@@ -1,0 +1,124 @@
+2023-07-20 09:33:42,223 - root - INFO - [<Thread(Thread-5 (file_download), initial)>, <Thread(Thread-6 (file_download), initial)>, <Thread(Thread-7 (file_download), initial)>]
+2023-07-20 09:34:08,283 - root - INFO - This is start of Multithreading
+2023-07-20 09:34:08,283 - root - INFO - This is start of file_download function
+2023-07-20 09:34:08,285 - root - INFO - This is start of file_download function
+2023-07-20 09:34:08,285 - root - INFO - This is start of file_download function
+2023-07-20 09:34:08,285 - root - INFO - All Data Downloaded Successfully
+2023-07-20 09:34:08,286 - root - INFO - This is end of Multithreading
+2023-07-20 09:34:08,650 - root - INFO - File from url https://raw.githubusercontent.com/itsfoss/text-files/master/agatha.txt download successfully and saved as data1.txt
+2023-07-20 09:34:08,651 - root - INFO - This is end of file_download function
+2023-07-20 09:34:08,670 - root - INFO - File from url https://raw.githubusercontent.com/itsfoss/text-files/master/sherlock.txt download successfully and saved as data2.txt
+2023-07-20 09:34:08,671 - root - INFO - This is end of file_download function
+2023-07-20 09:34:08,673 - root - INFO - File from url https://raw.githubusercontent.com/itsfoss/text-files/master/sample_log_file.txt download successfully and saved as data3.txt
+2023-07-20 09:34:08,673 - root - INFO - This is end of file_download function
+2023-07-20 09:37:26,148 - root - INFO - This is start of Multithreading
+2023-07-20 09:37:26,148 - root - ERROR - RuntimeError occured : threads can only be started once
+2023-07-20 09:37:26,148 - root - INFO - This is end of Multithreading
+2023-07-20 09:38:25,347 - root - INFO - Currently active threads are : 8
+2023-07-20 09:39:06,564 - root - INFO - Current thread is : <_MainThread(MainThread, started 140070796437312)>
+2023-07-20 09:39:44,199 - root - INFO - List of all active threads is : [<_MainThread(MainThread, started 140070796437312)>, <Thread(IOPub, started daemon 140070725908032)>, <Heartbeat(Heartbeat, started daemon 140070717515328)>, <Thread(Thread-3 (_watch_pipe_fd), started daemon 140070484960832)>, <Thread(Thread-4 (_watch_pipe_fd), started daemon 140070476568128)>, <ControlThread(Control, started daemon 140070468175424)>, <HistorySavingThread(IPythonHistorySavingThread, started 140070459782720)>, <ParentPollerUnix(Thread-2, started daemon 140070451390016)>]
+2023-07-20 09:41:26,165 - root - INFO - run() Command executed
+2023-07-20 09:41:37,542 - root - INFO - run() Command executed
+2023-07-20 09:42:32,023 - root - INFO - Counter Value : 0
+2023-07-20 09:42:32,024 - root - INFO - Counter Value : 1
+2023-07-20 09:42:32,024 - root - INFO - Counter Value : 2
+2023-07-20 09:42:32,024 - root - INFO - Counter Value : 3
+2023-07-20 09:42:32,024 - root - INFO - Counter Value : 4
+2023-07-20 09:42:32,024 - root - INFO - Counter Value : 5
+2023-07-20 09:42:32,024 - root - INFO - Counter Value : 6
+2023-07-20 09:42:32,024 - root - INFO - Counter Value : 7
+2023-07-20 09:42:32,024 - root - INFO - Counter Value : 8
+2023-07-20 09:42:32,024 - root - INFO - Counter Value : 9
+2023-07-20 09:42:33,026 - root - INFO - Thread Finished
+2023-07-20 09:42:41,108 - root - INFO - Counter Value : 0
+2023-07-20 09:42:41,109 - root - INFO - Counter Value : 1
+2023-07-20 09:42:41,109 - root - INFO - Counter Value : 2
+2023-07-20 09:42:41,109 - root - INFO - Counter Value : 3
+2023-07-20 09:42:41,109 - root - INFO - Counter Value : 4
+2023-07-20 09:42:41,109 - root - INFO - Counter Value : 5
+2023-07-20 09:42:41,109 - root - INFO - Counter Value : 6
+2023-07-20 09:42:41,109 - root - INFO - Counter Value : 7
+2023-07-20 09:42:41,109 - root - INFO - Counter Value : 8
+2023-07-20 09:42:41,109 - root - INFO - Counter Value : 9
+2023-07-20 09:42:41,109 - root - INFO - Counter Value : 10
+2023-07-20 09:42:42,111 - root - INFO - Thread Finished
+2023-07-20 09:43:38,679 - root - INFO - thread 2 is alive : False
+2023-07-20 09:44:50,386 - root - INFO - Square of 1 is : 1
+2023-07-20 09:44:50,386 - root - INFO - Cube of 7 is : 343
+2023-07-20 09:44:50,387 - root - INFO - Cube of 8 is : 512
+2023-07-20 09:44:50,386 - root - INFO - Square of 2 is : 4
+2023-07-20 09:44:50,387 - root - INFO - Cube of 9 is : 729
+2023-07-20 09:44:50,387 - root - INFO - Square of 3 is : 9
+2023-07-20 09:44:50,387 - root - INFO - Cube of 10 is : 1000
+2023-07-20 09:44:50,387 - root - INFO - Square of 4 is : 16
+2023-07-20 09:44:50,389 - root - INFO - Cube of 11 is : 1331
+2023-07-20 09:44:50,389 - root - INFO - Square of 5 is : 25
+2023-07-20 09:44:50,389 - root - INFO - Cube of 12 is : 1728
+2023-07-20 09:44:50,389 - root - INFO - Square of 6 is : 36
+2023-07-20 09:44:50,389 - root - INFO - Cube of 13 is : 2197
+2023-07-20 09:44:50,389 - root - INFO - Square of 7 is : 49
+2023-07-20 09:44:50,389 - root - INFO - Cube of 14 is : 2744
+2023-07-20 09:44:50,390 - root - INFO - Square of 8 is : 64
+2023-07-20 09:44:50,391 - root - INFO - Cube of 15 is : 3375
+2023-07-20 09:44:50,391 - root - INFO - Square of 9 is : 81
+2023-07-20 09:44:50,391 - root - INFO - Cube of 16 is : 4096
+2023-07-20 09:44:50,391 - root - INFO - Square of 10 is : 100
+2023-07-20 09:51:39,379 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2023-07-20 09:51:39,384 - Comm - WARNING - No such comm: e43f5ed3-cda8-4ce5-a886-b8052a558b51
+2023-07-20 09:51:39,384 - Comm - DEBUG - Current comms: []
+2023-07-20 09:52:37,666 - root - INFO - [<Thread(Thread-14 (file_download), initial)>, <Thread(Thread-15 (file_download), initial)>, <Thread(Thread-16 (file_download), initial)>]
+2023-07-20 09:52:38,215 - root - INFO - This is start of Multithreading
+2023-07-20 09:52:38,215 - root - INFO - This is start of file_download function
+2023-07-20 09:52:38,216 - root - INFO - This is start of file_download function
+2023-07-20 09:52:38,217 - root - INFO - This is start of file_download function
+2023-07-20 09:52:38,217 - root - INFO - All Data Downloaded Successfully
+2023-07-20 09:52:38,217 - root - INFO - This is end of Multithreading
+2023-07-20 09:52:38,588 - root - INFO - File from url https://raw.githubusercontent.com/itsfoss/text-files/master/agatha.txt download successfully and saved as data1.txt
+2023-07-20 09:52:38,588 - root - INFO - This is end of file_download function
+2023-07-20 09:52:38,607 - root - INFO - File from url https://raw.githubusercontent.com/itsfoss/text-files/master/sherlock.txt download successfully and saved as data2.txt
+2023-07-20 09:52:38,607 - root - INFO - This is end of file_download function
+2023-07-20 09:52:38,614 - root - INFO - File from url https://raw.githubusercontent.com/itsfoss/text-files/master/sample_log_file.txt download successfully and saved as data3.txt
+2023-07-20 09:52:38,614 - root - INFO - This is end of file_download function
+2023-07-20 09:52:39,969 - root - INFO - Currently active threads are : 8
+2023-07-20 09:52:40,819 - root - INFO - Current thread is : <_MainThread(MainThread, started 140070796437312)>
+2023-07-20 09:52:41,953 - root - INFO - List of all active threads is : [<_MainThread(MainThread, started 140070796437312)>, <Thread(IOPub, started daemon 140070725908032)>, <Heartbeat(Heartbeat, started daemon 140070717515328)>, <Thread(Thread-3 (_watch_pipe_fd), started daemon 140070484960832)>, <Thread(Thread-4 (_watch_pipe_fd), started daemon 140070476568128)>, <ControlThread(Control, started daemon 140070468175424)>, <HistorySavingThread(IPythonHistorySavingThread, started 140070459782720)>, <ParentPollerUnix(Thread-2, started daemon 140070451390016)>]
+2023-07-20 09:52:43,420 - root - INFO - run() Command executed
+2023-07-20 09:52:44,352 - root - INFO - Counter Value : 0
+2023-07-20 09:52:44,353 - root - INFO - Counter Value : 1
+2023-07-20 09:52:44,353 - root - INFO - Counter Value : 2
+2023-07-20 09:52:44,353 - root - INFO - Counter Value : 3
+2023-07-20 09:52:44,353 - root - INFO - Counter Value : 4
+2023-07-20 09:52:44,353 - root - INFO - Counter Value : 5
+2023-07-20 09:52:44,353 - root - INFO - Counter Value : 6
+2023-07-20 09:52:44,353 - root - INFO - Counter Value : 7
+2023-07-20 09:52:44,353 - root - INFO - Counter Value : 8
+2023-07-20 09:52:44,353 - root - INFO - Counter Value : 9
+2023-07-20 09:52:44,353 - root - INFO - Counter Value : 10
+2023-07-20 09:52:45,355 - root - INFO - Thread Finished
+2023-07-20 09:52:45,439 - root - INFO - thread 2 is alive : False
+2023-07-20 09:52:47,430 - root - INFO - Square of 1 is : 1
+2023-07-20 09:52:47,430 - root - INFO - Square of 2 is : 4
+2023-07-20 09:52:47,431 - root - INFO - Square of 3 is : 9
+2023-07-20 09:52:47,431 - root - INFO - Square of 4 is : 16
+2023-07-20 09:52:47,431 - root - INFO - Square of 5 is : 25
+2023-07-20 09:52:47,431 - root - INFO - Square of 6 is : 36
+2023-07-20 09:52:47,431 - root - INFO - Square of 7 is : 49
+2023-07-20 09:52:47,431 - root - INFO - Square of 8 is : 64
+2023-07-20 09:52:47,431 - root - INFO - Square of 9 is : 81
+2023-07-20 09:52:47,431 - root - INFO - Square of 10 is : 100
+2023-07-20 09:52:47,432 - root - INFO - Cube of 7 is : 343
+2023-07-20 09:52:47,432 - root - INFO - Cube of 8 is : 512
+2023-07-20 09:52:47,432 - root - INFO - Cube of 9 is : 729
+2023-07-20 09:52:47,432 - root - INFO - Cube of 10 is : 1000
+2023-07-20 09:52:47,432 - root - INFO - Cube of 11 is : 1331
+2023-07-20 09:52:47,432 - root - INFO - Cube of 12 is : 1728
+2023-07-20 09:52:47,432 - root - INFO - Cube of 13 is : 2197
+2023-07-20 09:52:47,433 - root - INFO - Cube of 14 is : 2744
+2023-07-20 09:52:47,433 - root - INFO - Cube of 15 is : 3375
+2023-07-20 09:52:47,433 - root - INFO - Cube of 16 is : 4096
+2023-07-20 10:17:59,626 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2023-07-20 10:17:59,630 - Comm - WARNING - No such comm: a11f981b-0cd6-42c1-9d4a-d55cdd15cbdf
+2023-07-20 10:17:59,630 - Comm - DEBUG - Current comms: []
+2023-07-20 10:31:51,830 - Comm - ERROR - No such comm target registered: jupyter.widget.control
+2023-07-20 10:31:51,836 - Comm - WARNING - No such comm: af25c170-8581-4629-bb31-4536eff9b62d
+2023-07-20 10:31:51,836 - Comm - DEBUG - Current comms: []
